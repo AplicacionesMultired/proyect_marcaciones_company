@@ -19,7 +19,7 @@ const NavBar = () => {
       <div className='max-w-screen-xl flex flex-wrap items-center justify-between mx-auto py-4'>
         <a href='#' className='flex items-center space-x-3 rtl:space-x-reverse'>
           <img src="logo.webp" className='h-10' alt='Logo Gestión Humana' />
-          <span className='self-center text-xl font-semibold whitespace-nowrap dark:text-white'>Gestión Humana Multired</span>
+          <span className='self-center text-xl font-semibold whitespace-nowrap dark:text-white'>Gestión Humana Servired</span>
         </a>
 
         <div className='w-full md:block md:w-auto' id='navbar-multi-level'>
